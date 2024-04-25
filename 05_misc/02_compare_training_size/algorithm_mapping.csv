@@ -1,0 +1,41 @@
+official_name,cite_key,folder
+NoveltySVR,~\cite{ma2003online},novelty_svr
+PS-SVM,~\cite{ma2003time},phasespace_svm
+EmsembleGI,~\cite{gao2020ensemble},ensemble_gi
+GrammarViz,~\cite{senin2015time},grammarviz3
+HOT SAX,~\cite{keogh2005hot},hotsax
+TSBitmap,~\cite{wei2005assumption},ts_bitmap
+NormA-SJ,~\cite{boniol2021unsupervised},norma
+SAND,~\cite{boniol2021sand},sand
+Series2Graph,~\cite{boniol2022series2graph},series2graph
+STAMP,~\cite{yeh2016matrix},stamp
+STOMP,~\cite{zhu2016matrix},stomp
+VALMOD,~\cite{linardi2020matrix},valmod
+Left STAMPi,~\cite{yeh2016matrix},left_stampi
+SSA,~\cite{yao2010online},ssa
+PST,~\cite{sun2006mining},pst
+NumetaHTM,~\cite{ahmad2017unsupervised},numenta_htm
+Sub-LOF,~\cite{breunig2000lof},subsequence_lof
+Sub-IF,~\cite{liu2008isolation},subsequence_if
+DWT-MLEAD,~\cite{thill2017time},dwt_mlead
+FFT,~\cite{rasheed2009fourier},fft
+SR,~\cite{ren2019time},sr
+S-H-ESD,~\cite{hochenbaum2017automatic},s_h_esd
+DSPOT,~\cite{siffer2017anomaly},dspot
+ARIMA,~\cite{hyndman2018forecasting},arima
+MedianMethod,~\cite{basu2007automatic},median_method
+SARIMA,~\cite{greis2018comparing},sarima
+Triple ES,~\cite{aboode2018anomaly},triple_es
+PCI,~\cite{yu2014time},pci
+RForest,~\cite{breiman2001random},generic_rf
+XGBoosting,~\cite{chen2016xgboost},generic_xgb
+TARZAN,~\cite{keogh2002finding},tarzan
+HealthESN,~\cite{chen2020imbalanced},health_esn
+OceanWNN,~\cite{wang2019study},ocean_wnn
+Bagel,~\cite{li2018robust},bagel
+Donut,~\cite{xu2018unsupervised},donut
+IE-CAE,~\cite{garcia2020time},img_embedding_cae
+SR-CNN,~\cite{ren2019time},sr_cnn
+Sub-Fast-MCD,~\cite{rousseeuw1999fast},subsequence_fast_mcd
+SNPAD,~\cite{zhou2023semi} ,snpad
+COUTA,~\cite{xu2022calibrated},couta
