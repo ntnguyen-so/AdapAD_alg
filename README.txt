@@ -1,4 +1,4 @@
-This is the replication package of the paper "Industry-ready Anomaly Detector for Sensor Data". In this package, you will find in the following folders:
+This is the replication package of the paper "Concept-drift-adaptive anomaly detector for marine sensor data streams". In this package, you will find in the following folders:
 01_data: data used in the study
 	|- 01_label: data with anomalies that we identified together with domain experts. The data format follows [1]. AdapAD assumes new data subjects follows this data format. 
 	|- 02_labelling_process: explanations of anomaly labelling process for the three datasets used in the study.
