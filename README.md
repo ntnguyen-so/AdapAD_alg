@@ -30,22 +30,6 @@ If you use AdapAD in your project or research, please cite the following paper:
 }
 ```
 
-All the exeperiments of AdapAD and state-of-the-art algorithms were executed on:
-- Ubuntu LTS 20.04 OS
-- Python 3.8
-- Docker
-
-The framework can be used in a wide range of applications, especially in root cause analysis. In our work, we have demonstrated the usefulness and practicability of MuMSAD in two real-world applications, requested by many of industrial and research collaborators.
-- Automatic multi-parameter marine data quality control. The figure below demonstrates the overview idea of the application.
-- Automatic identification of malfunctioning sensors in Remotely Operated Vehicles, which is requested by one of our industrial collaborator.
-
-<div align="center">
-  <img src="./assets/motivation.PNG" alt="Motivation" style="width: 50%;">
-</div>
-
-Our work is under review at The IEEE International Conference on Data Engineering (ICDE) 2025 Industry and Applications Track.
-MuMSAD is an extension of [MSAD](https://github.com/boniolp/MSAD), which is orignally designed for automatic selection of univariate anomaly detectors. MuMSAD is fully compatible to features supported in the original framework.
-
 ## Installation
 
 To install and use MuMSAD from source, you will need the following tools:
@@ -85,4 +69,14 @@ Below you can find the structure of the repository.
 - 05_misc: 
   - 01_development_progress: experimental results of AdapAD v0.2 on the benchmark data.
   - 02_compare_training_size: experimental results when we attempted to increase training size of semi-supervised algorithms during the benchmark study stage (see Section 2.1 in the paper).
+ 
+## Usage
+
+Execute the following command to run the algorithm
+```bash
+python3 main.py
+```
+
+You can find all the hyperparameters setting in `config.py`
+
 	
