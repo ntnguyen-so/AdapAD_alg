@@ -59,7 +59,7 @@ To install and use MuMSAD from source, you will need the following tools:
 
 ```bash
 git clone https://github.com/ntnguyen-so/AdapAD_alg
-cd AdapAD_alg/
+cd AdapAD_alg/02_AdapAD_code
 ```
 
 **Step 2:** Create and activate a `conda` environment named `MSAD`.
@@ -86,6 +86,3 @@ Below you can find the structure of the repository.
 	|- 01_development_progress: experimental results of AdapAD v0.2 on the benchmark data.
 	|- 02_compare_training_size: experimental results when we attempted to increase training size of semi-supervised algorithms during the benchmark study stage (see Section 2.1 in the paper).
 	
-	
-## Usage
-Details on usage of the algorithm will be updated by the end of December, 2024.
