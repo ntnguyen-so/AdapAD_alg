@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/headline.PNG" style="width: 40%;"/>
+<img src="./assets/headline.png" style="width: 40%;"/>
 </p>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 AdapAD is a semi-supervised anomaly detector designed to detect anomalies in univariate marine data streams. The operation flow of AdapAD is illustrated below.
 
 <div align="center">
-  <img src="./assets/operation_flow.PNG" alt="operation_flow" style="width: 70%;">
+  <img src="./assets/operation_flow.png" alt="operation_flow" style="width: 70%;">
 </div>
 
 If you use AdapAD in your project or research, please cite the following paper:
