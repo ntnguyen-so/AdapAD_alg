@@ -76,13 +76,13 @@ pip install -r requirements.txt
 
 Below you can find the structure of the repository.
 
-01_data: data used in the study
-	|- 01_label: data with anomalies that we identified together with domain experts. The data format follows [1]. AdapAD assumes new data subjects follows this data format. 
-	|- 02_labelling_process: explanations of anomaly labelling process for the three datasets used in the study.
-02_AdapAD_code: source code of AdapAD.
-03_benchmark: results of the benchmark stage discussed in Section 3. See README.txt to replicate our experiments in the benchmark stage.
-04_validation: results that we showed in Section 5. Validation.
-05_misc: 
-	|- 01_development_progress: experimental results of AdapAD v0.2 on the benchmark data.
-	|- 02_compare_training_size: experimental results when we attempted to increase training size of semi-supervised algorithms during the benchmark study stage (see Section 2.1 in the paper).
+- 01_data: data used in the study
+  - 01_label: data with anomalies that we identified together with domain experts. The data format follows [1]. AdapAD assumes new data subjects follows this data format. 
+  - 02_labelling_process: explanations of anomaly labelling process for the three datasets used in the study.
+- 02_AdapAD_code: source code of AdapAD.
+- 03_benchmark: results of the benchmark stage discussed in Section 3. See README.txt to replicate our experiments in the benchmark stage.
+- 04_validation: results that we showed in Section 5. Validation.
+- 05_misc: 
+  - 01_development_progress: experimental results of AdapAD v0.2 on the benchmark data.
+  - 02_compare_training_size: experimental results when we attempted to increase training size of semi-supervised algorithms during the benchmark study stage (see Section 2.1 in the paper).
 	
