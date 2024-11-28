@@ -2,9 +2,9 @@
 # The hyper-parameters are set such that AdapAD achieves the highest precisions #
 
 # Note: comment/uncomment one of the following data sources to test
-data_source_path = "./01_data/01_label/Wave_height.csv"
-# data_source_path = "./01_data/01_label/Tide_pressure.validation_stage.csv"
-# data_source_path = "./01_data/01_label/Seawater_temperature.csv"
+data_source_path = "./data/01_label/Wave_height.csv"
+# data_source_path = "./data/01_label/Tide_pressure.validation_stage.csv"
+# data_source_path = "./data/01_label/Seawater_temperature.csv"
 
 # Note: comment/uncomment one of the following data sources to test.
 # This should align with data_source_path
