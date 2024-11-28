@@ -1,1 +1,0 @@
-We reused the optimized hyperparamers from https://hpi-information-systems.github.io/timeeval-evaluation-paper/notebooks/GutenTAG-result-analysis.html or can be accessed directly at tsad-evaluation-results.csv.
