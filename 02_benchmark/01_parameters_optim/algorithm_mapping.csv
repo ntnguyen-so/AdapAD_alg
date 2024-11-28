@@ -1,0 +1,39 @@
+official_name,cite_key,folder,ref_name
+NoveltySVR,~\cite{ma2003online},novelty_svr,NoveltySVR
+PS-SVM,~\cite{ma2003time},phasespace_svm,PhaseSpace-SVM
+EmsembleGI,~\cite{gao2020ensemble},ensemble_gi,EmsembleGI
+GrammarViz,~\cite{senin2015time},grammarviz3,GrammarViz
+HOT SAX,~\cite{keogh2005hot},hotsax,HOT SAX
+TSBitmap,~\cite{wei2005assumption},ts_bitmap,TSBitmap
+NormA-SJ,~\cite{boniol2021unsupervised},norma,NormA
+SAND,~\cite{boniol2021sand},sand,SAND
+Series2Graph,~\cite{boniol2022series2graph},series2graph,Series2Graph
+STAMP,~\cite{yeh2016matrix},stamp,STAMP
+STOMP,~\cite{zhu2016matrix},stomp,STOMP
+VALMOD,~\cite{linardi2020matrix},valmod,VALMOD
+Left STAMPi,~\cite{yeh2016matrix},left_stampi,Left STAMPi
+SSA,~\cite{yao2010online},ssa,SSA
+PST,~\cite{sun2006mining},pst,PST
+NumentaHTM,~\cite{ahmad2017unsupervised},numenta_htm,NumentaHTM
+Sub-LOF,~\cite{breunig2000lof},subsequence_lof,Subsequence LOF
+Sub-IF,~\cite{liu2008isolation},subsequence_if,Subsequence IF
+DWT-MLEAD,~\cite{thill2017time},dwt_mlead,DWT-MLEAD
+FFT,~\cite{rasheed2009fourier},fft,FFT
+SR,~\cite{ren2019time},sr,Spectral Residual (SR)
+S-H-ESD,~\cite{hochenbaum2017automatic},s_h_esd,S-H-ESD (Twitter)
+DSPOT,~\cite{siffer2017anomaly},dspot,DSPOT
+ARIMA,~\cite{hyndman2018forecasting},arima,ARIMA
+MedianMethod,~\cite{basu2007automatic},median_method,MedianMethod
+SARIMA,~\cite{greis2018comparing},sarima,SARIMA
+Triple ES,~\cite{aboode2018anomaly},triple_es,Triple ES (Holt-Winter's)
+PCI,~\cite{yu2014time},pci,PCI
+RForest,~\cite{breiman2001random},generic_rf,Random Forest Regressor (RR)
+XGBoosting,~\cite{chen2016xgboost},generic_xgb,XGBoosting (RR)
+TARZAN,~\cite{keogh2002finding},tarzan,TARZAN
+HealthESN,~\cite{chen2020imbalanced},health_esn,HealthESN
+OceanWNN,~\cite{wang2019study},ocean_wnn,OceanWNN
+Bagel,~\cite{li2018robust},bagel,Bagel
+Donut,~\cite{xu2018unsupervised},donut,Donut
+IE-CAE,~\cite{garcia2020time},img_embedding_cae,ImageEmbeddingCAE
+SR-CNN,~\cite{ren2019time},sr_cnn,SR-CNN
+Sub-Fast-MCD,~\cite{rousseeuw1999fast},subsequence_fast_mcd,Sub-Fast-MCD
