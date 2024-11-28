@@ -56,6 +56,15 @@ pip install -r requirements.txt
 
 **Step 3:** Installation complete!
 
+## Usage
+
+Execute the following command to run the algorithm
+```bash
+python3 main.py
+```
+
+You can find all the hyperparameters setting in `config.py`
+
 ## Structure
 
 Below you can find the structure of the repository.
@@ -69,13 +78,4 @@ Below you can find the structure of the repository.
   - 01_development_progress: experimental results of AdapAD v0.2 on the benchmark data.
   - 02_compare_training_size: experimental results when we attempted to increase training size of semi-supervised algorithms during the benchmark study stage (see Section 2.1 in the paper).
  
-## Usage
 
-Execute the following command to run the algorithm
-```bash
-python3 main.py
-```
-
-You can find all the hyperparameters setting in `config.py`
-
-	
