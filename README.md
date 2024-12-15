@@ -43,14 +43,12 @@ To install and use MuMSAD from source, you will need the following tools:
 
 ```bash
 git clone https://github.com/ntnguyen-so/AdapAD_alg
-cd AdapAD_alg/02_AdapAD_code
+cd AdapAD_alg
 ```
 
-**Step 2:** Create and activate a `conda` environment named `MSAD`.
+**Step 2:** Install necessary modules for `AdapAD_alg`.
 
 ```bash
-conda env create --file environment.yml
-conda activate AdapAD_alg
 pip install -r requirements.txt
 ```
 
