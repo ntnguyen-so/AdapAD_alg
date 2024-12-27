@@ -32,7 +32,7 @@ If you use AdapAD in your project or research, please cite the following paper:
 
 ## Installation
 
-To install and use MuMSAD from source, you will need the following tools:
+To install and use AdapAD from source, you will need the following tools:
 
 - `git`
 - `conda` (anaconda or miniconda)
